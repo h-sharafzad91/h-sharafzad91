@@ -2,7 +2,9 @@
 
 **Blockchain & Web3 Engineer | AI Systems | Full-Stack Developer**
 
-I work across blockchain development, backend engineering and applied AI. My projects include Web3 applications, smart contracts, AI-powered systems and full-stack products.
+I build blockchain applications, AI-powered systems and backend infrastructure. My work spans Solidity and Solana development, Python-based AI services, and full-stack TypeScript applications.
+
+I focus on building practical systems with clear architecture, well-defined interfaces and maintainable code.
 
 ## Technologies
 
