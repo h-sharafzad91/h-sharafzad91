@@ -1,52 +1,52 @@
-Hossein Sharafzad
+# Hossein Sharafzad
 
-Blockchain & Web3 Engineer | AI Systems | Full-Stack Developer
+**Blockchain & Web3 Engineer | AI Systems | Full-Stack Developer**
 
 I work across blockchain development, backend engineering and applied AI. My projects include Web3 applications, smart contracts, AI-powered systems and full-stack products.
 
-Technologies
+## Technologies
 
-Blockchain: Solidity, Solana, Anchor, Ethereum, Wagmi, Viem, XMTP
+**Blockchain:** Solidity, Solana, Anchor, Ethereum, Wagmi, Viem, XMTP
 
-Languages: Python, TypeScript, JavaScript, Rust
+**Languages:** Python, TypeScript, JavaScript, Rust
 
-Backend: Node.js, FastAPI, Django, Express, REST APIs
+**Backend:** Node.js, FastAPI, Django, Express, REST APIs
 
-Frontend: React, Next.js, Tailwind CSS
+**Frontend:** React, Next.js, Tailwind CSS
 
-AI & Data: PyTorch, TensorFlow, Scikit-learn, LLM Integration
+**AI & Data:** PyTorch, TensorFlow, Scikit-learn, LLM Integration
 
-Infrastructure: PostgreSQL, Redis, Docker, GitHub Actions
+**Infrastructure:** PostgreSQL, Redis, Docker, GitHub Actions
 
-Selected Projects
+## Selected Projects
 
-DeCine
+### DeCine
 
 A film finance platform concept with a web application and token-based ecosystem.
 
-Repository
+[View repository](https://github.com/h-sharafzad91/decine)
 
-Cucumber Trading Arena
+### Cucumber Trading Arena
 
 A modular trading system with separate services for backend orchestration, AI decision-making, user interface and administration.
 
-* Cerebellum
-* Cortex
-* Web
-* Admin
+- [Cerebellum](https://github.com/h-sharafzad91/cucumber-cerebellum)
+- [Cortex](https://github.com/h-sharafzad91/cucumber-cortex)
+- [Web](https://github.com/h-sharafzad91/cucumber-web)
+- [Admin](https://github.com/h-sharafzad91/cucumber-admin)
 
-Connected Vehicle Trust Management
+### Connected Vehicle Trust Management
 
 An MSc research project exploring blockchain-based trust management for connected vehicle networks using SUMO simulation and Solana.
 
-Repository
+[View repository](https://github.com/h-sharafzad91/connected-vehicle-solana)
 
-Education
+## Education
 
-MSc Data Science and Artificial Intelligence
+**MSc Data Science and Artificial Intelligence**  
 Bournemouth University, United Kingdom
 
-Links
+## Links
 
-* Portfolio
-* GitHub
+- [Portfolio](https://nodeside.com)
+- [GitHub](https://github.com/h-sharafzad91)
